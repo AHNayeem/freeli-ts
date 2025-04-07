@@ -10,10 +10,10 @@
 /coverage
 /deployment
 pull.sh
-package.json
-/package.json
-package-lock.json
-/package-lock.json
+#package.json
+#/package.json
+#package-lock.json
+#/package-lock.json
 # production
 /build
 /deployment
